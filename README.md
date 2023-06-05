@@ -25,10 +25,8 @@ My name is José Miguel Cerna and i am a Chilean developer, i studied Commercial
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-
-
-##👦 About Me
- - I'm a surfer since i was 19, love living near the beach.
- - I'm looking foward to get my first IT job.
- - I'm actually learning AD's and MySql.
- - I enjoy listening to music.
+### 👦 About Me
+- I'm a surfer since i was 19, love living near the beach.
+- - I'm looking foward to get my first IT job.
+- I'm actually learning AD's and MySql.
+- I enjoy listening to music.
