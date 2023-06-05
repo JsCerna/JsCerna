@@ -9,6 +9,12 @@ My name is José Miguel Cerna and i am a Chilean developer, i studied Commercial
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cotecerna/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jcernat@udd.cl)
 
+### 👦 About Me
+- I'm a surfer since i was 19, love living near the beach.
+- I'm looking foward to get my first IT job.
+- I'm actually learning AD's and MySql.
+- I enjoy listening to music.
+
 ### Technologies 
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -24,9 +30,3 @@ My name is José Miguel Cerna and i am a Chilean developer, i studied Commercial
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-### 👦 About Me
-- I'm a surfer since i was 19, love living near the beach.
-- - I'm looking foward to get my first IT job.
-- I'm actually learning AD's and MySql.
-- I enjoy listening to music.
