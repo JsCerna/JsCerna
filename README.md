@@ -10,9 +10,9 @@ My name is José Miguel Cerna and i am a Chilean developer, i studied Commercial
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jcernat@udd.cl)
 
 ### 👦 About Me
-- I'm a surfer since i was 19, love living near the beach.
+- Love living near the beach.
 - I'm looking foward to get my first IT job.
-- I'm actually learning AD's and MySql.
+- Keep on learning and stuying.
 - I enjoy listening to music.
 
 ### Technologies 
